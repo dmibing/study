@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "202b80cb-7a50-4894-af59-748202d01a8f": {
+      "ProjectGuid": "202b80cb-7a50-4894-af59-748202d01a8f",
+      "DisplayName": "DITest",
+      "ColorIndex": 0
+    },
+    "f667953d-3454-482b-8563-85facb2e01cb": {
+      "ProjectGuid": "f667953d-3454-482b-8563-85facb2e01cb",
+      "DisplayName": "LogService",
+      "ColorIndex": 1
+    },
+    "f9ce158d-8800-4076-86fa-d10882ee547b": {
+      "ProjectGuid": "f9ce158d-8800-4076-86fa-d10882ee547b",
+      "DisplayName": "MailServices",
+      "ColorIndex": 2
+    },
+    "9cf27075-0880-40cb-ab65-ce7d86a2bfc7": {
+      "ProjectGuid": "9cf27075-0880-40cb-ab65-ce7d86a2bfc7",
+      "DisplayName": "ConfigServices",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

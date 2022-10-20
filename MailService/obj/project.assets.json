@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "ConfigServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/ConfigServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConfigServices.dll": {}
+        }
+      },
+      "LogService/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/LogService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LogService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConfigServices/1.0.0": {
+      "type": "project",
+      "path": "../ConfigService/ConfigServices.csproj",
+      "msbuildProject": "../ConfigService/ConfigServices.csproj"
+    },
+    "LogService/1.0.0": {
+      "type": "project",
+      "path": "../LogService/LogService.csproj",
+      "msbuildProject": "../LogService/LogService.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "ConfigServices >= 1.0.0",
+      "LogService >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\XSL\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Users\\XSL\\DeskTop\\project\\Study\\MailService\\MailServices.csproj",
+      "projectName": "MailServices",
+      "projectPath": "D:\\Users\\XSL\\DeskTop\\project\\Study\\MailService\\MailServices.csproj",
+      "packagesPath": "C:\\Users\\XSL\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\XSL\\DeskTop\\project\\Study\\MailService\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\XSL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "D:\\Users\\XSL\\DeskTop\\project\\Study\\ConfigService\\ConfigServices.csproj": {
+              "projectPath": "D:\\Users\\XSL\\DeskTop\\project\\Study\\ConfigService\\ConfigServices.csproj"
+            },
+            "D:\\Users\\XSL\\DeskTop\\project\\Study\\LogService\\LogService.csproj": {
+              "projectPath": "D:\\Users\\XSL\\DeskTop\\project\\Study\\LogService\\LogService.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
