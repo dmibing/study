@@ -20,7 +20,17 @@
       "ProjectGuid": "9cf27075-0880-40cb-ab65-ce7d86a2bfc7",
       "DisplayName": "ConfigServices",
       "ColorIndex": 3
+    },
+    "3ff4c54c-657b-464c-bb1a-0b1e46bcbd70": {
+      "ProjectGuid": "3ff4c54c-657b-464c-bb1a-0b1e46bcbd70",
+      "DisplayName": "MQSender",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

@@ -1,0 +1,17 @@
+D:\Users\XSL\DeskTop\project\Study\MQSender\bin\Debug\net6.0\MQSender.exe
+D:\Users\XSL\DeskTop\project\Study\MQSender\bin\Debug\net6.0\MQSender.deps.json
+D:\Users\XSL\DeskTop\project\Study\MQSender\bin\Debug\net6.0\MQSender.runtimeconfig.json
+D:\Users\XSL\DeskTop\project\Study\MQSender\bin\Debug\net6.0\MQSender.dll
+D:\Users\XSL\DeskTop\project\Study\MQSender\bin\Debug\net6.0\ref\MQSender.dll
+D:\Users\XSL\DeskTop\project\Study\MQSender\bin\Debug\net6.0\MQSender.pdb
+D:\Users\XSL\DeskTop\project\Study\MQSender\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Users\XSL\DeskTop\project\Study\MQSender\obj\Debug\net6.0\MQSender.csproj.AssemblyReference.cache
+D:\Users\XSL\DeskTop\project\Study\MQSender\obj\Debug\net6.0\MQSender.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\XSL\DeskTop\project\Study\MQSender\obj\Debug\net6.0\MQSender.AssemblyInfoInputs.cache
+D:\Users\XSL\DeskTop\project\Study\MQSender\obj\Debug\net6.0\MQSender.AssemblyInfo.cs
+D:\Users\XSL\DeskTop\project\Study\MQSender\obj\Debug\net6.0\MQSender.csproj.CoreCompileInputs.cache
+D:\Users\XSL\DeskTop\project\Study\MQSender\obj\Debug\net6.0\MQSender.csproj.CopyComplete
+D:\Users\XSL\DeskTop\project\Study\MQSender\obj\Debug\net6.0\MQSender.dll
+D:\Users\XSL\DeskTop\project\Study\MQSender\obj\Debug\net6.0\ref\MQSender.dll
+D:\Users\XSL\DeskTop\project\Study\MQSender\obj\Debug\net6.0\MQSender.pdb
+D:\Users\XSL\DeskTop\project\Study\MQSender\obj\Debug\net6.0\MQSender.genruntimeconfig.cache

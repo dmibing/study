@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ymyxDxn6exTyTT3fS+tzQkz3B3xSszs6lQ4yATy/o1cD7CcvH7dx0MRJJmqO1m1GrhICL12oi2EiZA/53tmzCQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\XSL\\DeskTop\\project\\Study\\MQSender\\MQSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XSL\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\XSL\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\XSL\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

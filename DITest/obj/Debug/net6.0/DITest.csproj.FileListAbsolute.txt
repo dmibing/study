@@ -46,3 +46,4 @@ D:\Users\XSL\DeskTop\project\Study\DITest\obj\Debug\net6.0\DITest.dll
 D:\Users\XSL\DeskTop\project\Study\DITest\obj\Debug\net6.0\ref\DITest.dll
 D:\Users\XSL\DeskTop\project\Study\DITest\obj\Debug\net6.0\DITest.pdb
 D:\Users\XSL\DeskTop\project\Study\DITest\obj\Debug\net6.0\DITest.genruntimeconfig.cache
+D:\Users\XSL\DeskTop\project\Study\DITest\bin\Debug\net6.0\RabbitMQ.Client.dll

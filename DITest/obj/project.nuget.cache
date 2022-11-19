@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "FmUL97QKDslDQCboLG1QCMz/h8u6MjLw2SBOgqK15L2fbbh6r61sN2A2+rPBoSjEiI39oLPADFMHhfmYrWWebg==",
+  "dgSpecHash": "PSSrEFNAKkd/DU8Aj+QcHzJUl/K65zRl8QJctcCiQVPVQR5M5ZEPTMP4yV0v7KBt5qLwJ/i7otVvXsmKoux6oA==",
   "success": true,
   "projectFilePath": "D:\\Users\\XSL\\DeskTop\\project\\Study\\DITest\\DITest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\XSL\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
     "C:\\Users\\XSL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\XSL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\XSL\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\XSL\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\XSL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\XSL\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
