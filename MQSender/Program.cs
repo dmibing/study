@@ -13,7 +13,7 @@ while (true)
     prop.DeliveryMode = 2;  //消息是否持久化
     chanel.ExchangeDeclare("myexchange","direct");  //声明交换机  名称  类型
     chanel.QueueDeclare("myqueue", false, false, false, null);  //对列声明
-    chanel.QueueBind("myqueue", "myexchange", "myqueue");   //对列绑定
+    chanel.QueueBind("myqueue", "myexchange", "mykey");   //对列绑定
     string msg = "Hello Syy";
     Byte[]  bytes = Encoding.UTF8.GetBytes(msg);   //把消息转换为字节
     chanel.BasicPublish("myexchange", "myqueue", true,prop,bytes);

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3DG/ciTevkDgxPdLxeEe/7WzcLoy+BT3cq1PMyeg081MUVpuji9lBYT0b9PADe+IfF3g4701Dlu32guBBKDetA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\XSL\\DeskTop\\project\\Study\\MQConsumer\\MQConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XSL\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\XSL\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\XSL\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

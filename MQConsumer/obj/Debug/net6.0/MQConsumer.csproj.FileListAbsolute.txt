@@ -1,0 +1,17 @@
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\bin\Debug\net6.0\MQConsumer.exe
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\bin\Debug\net6.0\MQConsumer.deps.json
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\bin\Debug\net6.0\MQConsumer.runtimeconfig.json
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\bin\Debug\net6.0\MQConsumer.dll
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\bin\Debug\net6.0\ref\MQConsumer.dll
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\bin\Debug\net6.0\MQConsumer.pdb
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\obj\Debug\net6.0\MQConsumer.csproj.AssemblyReference.cache
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\obj\Debug\net6.0\MQConsumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\obj\Debug\net6.0\MQConsumer.AssemblyInfoInputs.cache
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\obj\Debug\net6.0\MQConsumer.AssemblyInfo.cs
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\obj\Debug\net6.0\MQConsumer.csproj.CoreCompileInputs.cache
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\obj\Debug\net6.0\MQConsumer.csproj.CopyComplete
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\obj\Debug\net6.0\MQConsumer.dll
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\obj\Debug\net6.0\ref\MQConsumer.dll
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\obj\Debug\net6.0\MQConsumer.pdb
+D:\Users\XSL\DeskTop\project\Study\MQConsumer\obj\Debug\net6.0\MQConsumer.genruntimeconfig.cache
